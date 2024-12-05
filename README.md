@@ -46,7 +46,8 @@ Please refer to the `schematics` folder for the circuit diagram and bill of mate
 
 2. **Usage Instructions**:
     - IMPORTANT: Always use a multimeter and potentiometer to evaluate the actual output current before try it on yourself or anyone else. 
-    - This prototype is designed for loads ranging from 0 to 5 kOhm. Please use professional electrodes and conductive gel to reduce the impedance for best experience.
+    - This prototype is designed for loads ranging from 0 ohms to 5k Ohm. Please use professional electrodes and conductive gel to reduce the impedance for best experience.
+    - Please follow all instructions carefully to fully test the equipment before use, the responsibility for testing and verifying the correct operation of the device before use lies entirely with the user.
       
 ## Contributing: 
     Contributions are welcome! Please read CONTRIBUTING.md for more information.
