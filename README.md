@@ -38,7 +38,7 @@ This project is a voltage controlled constant current source circuit designed fo
 Please refer to the `schematics` folder for the circuit diagram and bill of materials.
 - [Circuit Schematic](./schematics/schematic.png)
 - [Bill of Materials](./schematics/BOM_GVS.csv)
-- [More information](./https://zenodo.org/records/14545604)
+- [More information]Please see more information at: https://zenodo.org/records/14545604
 
 ## Usage
 1. **Hardware Setup**:
