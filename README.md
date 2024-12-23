@@ -38,6 +38,7 @@ This project is a voltage controlled constant current source circuit designed fo
 Please refer to the `schematics` folder for the circuit diagram and bill of materials.
 - [Circuit Schematic](./schematics/schematic.png)
 - [Bill of Materials](./schematics/BOM_GVS.csv)
+- [More information](./https://zenodo.org/records/14545604)
 
 ## Usage
 1. **Hardware Setup**:
@@ -53,7 +54,7 @@ Please refer to the `schematics` folder for the circuit diagram and bill of mate
     Contributions are welcome! Please read CONTRIBUTING.md for more information.
   
 ## License: 
-    This project is licensed under CERN-OHL-W-2.0
+    This project is licensed under CERN-OHL-W-2.0 for Hardware, and MIT for software.
   
 ## Contact: 
     shawnliu@digitalnature.slis.tsukuba.ac.jp or shawnliu092@yahoo.com
